@@ -1,0 +1,21 @@
+{
+    "file": "https://drive.google.com/uc?export=download&id=1M2V3ycBy-QlBOUGAQDcsLvm2TpIct-cu",
+    "name": "Comparison Matrix",
+    "header": 0,
+    "separator": ",",
+    "skip": 0,
+    "meta": [
+        {
+            "type": "id",
+            "index": 0,
+            "name": "Description"
+        }
+    ],
+    "sets": [
+        {
+            "format": "binary",
+            "start": 1,
+            "end": 6
+        }
+    ]
+}
